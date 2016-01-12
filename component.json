@@ -5,11 +5,6 @@
     "main": "./lib/index",
     "tag": "master",
     "reposType": "npm",
-    "dependencies": {
-        "add-dom-event-listener": "1.x",
-        "classnames": "2.x",
-        "shallowequal": "0.2.x",
-        "util-deprecate": "1.x"
-    },
-    "version": "3.0.1"
+    "dependencies": {},
+    "version": "3.0.0"
 }
