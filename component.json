@@ -5,6 +5,9 @@
     "main": "index.js",
     "tag": "master",
     "reposType": "npm",
-    "dependencies": {},
-    "version": "2.1.0"
+    "dependencies": {
+        "add-dom-event-listener": "1.x",
+        "classnames": "2.x"
+    },
+    "version": "2.1.1"
 }
